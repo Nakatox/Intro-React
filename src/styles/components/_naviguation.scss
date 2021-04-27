@@ -1,0 +1,12 @@
+.naviguation{
+    margin: 20px 0;
+    display: flex;
+
+    a{
+        margin: 10px;
+        padding: 10px;
+    }
+    .nav-active{
+        border-bottom: solid $color-1 5px;
+    }
+}
